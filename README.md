@@ -1,1 +1,4 @@
-# ISM2411-lab
+_pycashe_/
+*.pyc
+.venv/
+.DS_Store
